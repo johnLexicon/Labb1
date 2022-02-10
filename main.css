@@ -64,6 +64,7 @@ label {
   font-size: 1rem;
   font-weight: 600;
   color: #fff;
+  transition: all 0.3s ease-in;
 }
 
 .btn:active {
